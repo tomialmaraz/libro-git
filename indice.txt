@@ -2,3 +2,5 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
+
+![diagramaEntidadRelacion](https://github.com/tomialmaraz/libro-git/assets/143562871/c6a426f4-91b3-4b48-b7f5-f55f150f22af)
